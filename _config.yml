@@ -1,0 +1,28 @@
+name: JeremyPoland
+favicon: null
+layout_spectrum: 0.1350913611240685
+typography_spectrum: 0.6067024217918515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07404612749814987
+  lightness: 0.022500849328935146
+  saturation: 0.007015716750174761
+  rhythmicContrast: 0.9864285835064948
+purpose: []
