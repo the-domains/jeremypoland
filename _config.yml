@@ -1,19 +1,4 @@
-name: JeremyPoland
-favicon: null
-layout_spectrum: 0.1350913611240685
 typography_spectrum: 0.6067024217918515
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.022500849328935146
   saturation: 0.007015716750174761
   rhythmicContrast: 0.9864285835064948
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1350913611240685
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: JeremyPoland
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: I Found a Cat Today
 purpose: []
